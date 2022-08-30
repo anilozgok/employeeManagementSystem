@@ -1,7 +1,6 @@
 package org.AnilCan.employeeManagement.DAO;
 
 import org.AnilCan.employeeManagement.Entities.department;
-import org.hibernate.HibernateException;
 import org.hibernate.Session;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Repository;
